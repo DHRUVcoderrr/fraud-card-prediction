@@ -1,5 +1,5 @@
 # fraud_card_prediction
-```markdown
+
 # Credit Card Fraud Detection
 
 This project focuses on detecting fraudulent credit card transactions using machine learning algorithms. The dataset contains transactions made by European cardholders in September 2013, and it consists of a wide range of features extracted via PCA (Principal Component Analysis), along with a label indicating whether a transaction is fraudulent or not.
